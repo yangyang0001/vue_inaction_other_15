@@ -189,7 +189,7 @@ export default {
     background-color: #007bff;
 }
 
-/deep/ .van-nav-bar__title {
-    color: white;
-}
+// /deep/ .van-nav-bar__title {
+//     color: white;
+// }
 </style>
